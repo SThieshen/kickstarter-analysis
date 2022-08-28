@@ -20,10 +20,6 @@ https://github.com/SThieshen/kickstarter-analysis/blob/main/Category_Statistics.
 
     This tells us, setting a lower crowdfunding goal of around $5,000, produces better outcomes.
 
-    Analyzing 'Great Britain Musicals'- 
+  * Analyzing 'Great Britain Musicals'- https://github.com/SThieshen/kickstarter-analysis/blob/main/GB_musicals.png
         
-        https://github.com/SThieshen/kickstarter-analysis/blob/main/GB_musicals.png
-        
-          this visual tells us that the average campaign goal is around £4,000, 
-          and because this falls out of range of any outliers in our data for the 
-          actual pledged amount, it would be best to try to produce under £2,000.
+   this visual tells us that the average campaign goal is around £4,000, and because this falls out of range of any outliers in our data for the actual pledged amount, it would be best to try to produce under £2,000.
