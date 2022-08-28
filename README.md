@@ -18,9 +18,9 @@ https://github.com/SThieshen/kickstarter-analysis/blob/main/Category_Statistics.
       
       2 Failed play campaigns had a much higher average goal at $10,554, with the average pledge being $559.
 
-        -which tells us, setting a lower crowdfunding goal of around $5,000, produces better outcomes.
+    This tells us, setting a lower crowdfunding goal of around $5,000, produces better outcomes.
 
-        -Also look at our chart analyzing 'Great Britain Musicals'- 
+        * Analyzing 'Great Britain Musicals'- 
         
         https://github.com/SThieshen/kickstarter-analysis/blob/main/GB_musicals.png
         
