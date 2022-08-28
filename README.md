@@ -28,6 +28,6 @@ https://github.com/SThieshen/kickstarter-analysis/blob/main/Category_Statistics.
    
    
    
-##Conclusion of Analysis
+## Conclusion of Analysis
 
   * Based on the analysis of our data, it would be best launch a crowdfunding campaign for a play in May or June, with the goal around $5,000.
