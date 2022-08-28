@@ -14,13 +14,13 @@ https://github.com/SThieshen/kickstarter-analysis/blob/main/Category_Statistics.
 
   * Based on the data available in our 'Descriptive Statistics' file, under the tab with the same name, data concludes:
   
-      1 Successful play campaigns had an average goal of $5,049, with the average pledge being $5,602.
+    - Successful play campaigns had an average goal of $5,049, with the average pledge being $5,602.
       
-      2 Failed play campaigns had a much higher average goal at $10,554, with the average pledge being $559.
+    - Failed play campaigns had a much higher average goal at $10,554, with the average pledge being $559.
 
     This tells us, setting a lower crowdfunding goal of around $5,000, produces better outcomes.
 
-        * Analyzing 'Great Britain Musicals'- 
+    Analyzing 'Great Britain Musicals'- 
         
         https://github.com/SThieshen/kickstarter-analysis/blob/main/GB_musicals.png
         
