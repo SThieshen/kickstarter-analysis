@@ -24,10 +24,10 @@ https://github.com/SThieshen/kickstarter-analysis/blob/main/Category_Statistics.
 
   - Analyzing 'Great Britain Musicals'- https://github.com/SThieshen/kickstarter-analysis/blob/main/GB_musicals.png
         
-   This visual tells us that the average campaign goal is around £4,000, and because this falls out of range of any outliers in our data for the actual pledged amount, it would be best to try to produce under £2,000.
+    This visual tells us that the average campaign goal is around £4,000, and because this falls out of range of any outliers in our data for the actual pledged amount,      it would be best to try to produce under £2,000.
    
    
    
 ## Conclusion of Analysis
 
-  * Based on the analysis of our data, it would be best launch a crowdfunding campaign for a play in May or June, with the goal around $5,000.
+  * Based on the analysis of our data, it would be best launch to a crowdfunding campaign for a play in May or June, with the goal around $5,000.
