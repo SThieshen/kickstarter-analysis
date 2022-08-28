@@ -2,4 +2,4 @@
 Performing analysis on Kickstarter data to uncover trends
 ## Crowdfunding by Category
 * Theater and plays have some of the best outcomes in crowdfunding
-![category_statistics](path/to/category_statistics.png)
+https://github.com/SThieshen/kickstarter-analysis/blob/main/Category_Statistics.png
