@@ -7,7 +7,7 @@ Performing analysis on Kickstarter data to uncover trends
      to help fund her play, *Fever*. Louise originally planned a budget of over $10,000, but was hesitant to start the campaign
      without more information. She wanted input from an Excel power user, for help, in hopes of being successful at crowdfunding
      her play. Within this analysis, we look at various aspects of crowdfunding, including types of events, fundraising goals,
-     campaign launch dates, and locations, just to name a few.
+     campaign launch dates, and locations of the campaigns, just to name a few.
 
 
 ## Purpose
