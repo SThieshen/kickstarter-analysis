@@ -1,16 +1,22 @@
-# An Analysis of Kickstarter Campaigns
+# Kickstarting with Excel
 Performing analysis on Kickstarter data to uncover trends
 
-## Crowdfunding by Category
-* Theater and plays have some of the best outcomes in crowdfunding
-https://github.com/SThieshen/kickstarter-analysis/blob/main/Category_Statistics.png
+## Overview of Project
 
-## Best Time to Launch Crowdfunding Event
 
-* Based on the chart 'Outcomes Based on Launch Date', May and June are the best months to launch a campaign
-  https://github.com/SThieshen/kickstarter-analysis/blob/main/Outcomes_Based_on_Launch_Date.png
+## Purpose
 
-## Setting a realistic crowdfunding goal
+
+## Analysis and Challenges
+
+
+### Analysis of Outcomes Based on Launch Date
+
+
+### Analysis of Outcomes Based on Goals
+
+
+### CHallenges and Difficulties Encountered
 
   * Based on the data available in our 'Descriptive Statistics' file, under the tab with the same name, data concludes:
   
@@ -28,6 +34,20 @@ https://github.com/SThieshen/kickstarter-analysis/blob/main/Category_Statistics.
    
    
    
-## Conclusion of Analysis
+## Results
 
   * Based on the analysis of our data, it would be best launch to a crowdfunding campaign for a play in May or June, with the goal around $5,000.
+
+
+
+
+
+
+
+
+
+
+  -What are 2 conclusions you can draw about the Outcomes based on Launch date?
+  -What can you conclude about the Outcomes based on Goals?
+  -What are some limitations of this dataset?
+  -What are some other possible tables and/or graphs that we could create?
