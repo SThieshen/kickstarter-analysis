@@ -29,7 +29,7 @@ rather than dates in a standard format. This required formatting prior to even b
     
 ### Analysis of Outcomes Based on Launch Date
 
-	Once we were able to organize the launch dates, we took that information and created a line graph, so Louise could see for herself when 
+Once we were able to organize the launch dates, we took that information and created a line graph, so Louise could see for herself when 
 the best times to launch were. We compared outcomes, their amount (whether success, fail, or canceled), and the months in which the 
 campaigns launched. The line graph provided visual aid in showing us that the months with the most successful outcomes were May and June, 
 and the worst time to launch a crowdfunding campaign would be in the winter, with November, December, and January all having less than
@@ -37,11 +37,11 @@ optimal results with their campaigns. Louise can clearly see that she should lau
 
 ### Analysis of Outcomes Based on Goals
 		
-		Another area we analyzed, to provide Louise useful data, was the outcome of each campaign, based on its goal of how much 
-	money they wanted to raise. We divided the campaigns into categories starting at < $1,000, increasing to $1,000 to $4,999, and 
-	continuing to increase each category increment by $5,000, ending at $50,000 or more, for a total of twelve rows. Then we separated 
-	each column by 'percentage successful', 'percentage failed', and 'percentage canceled'. Based on the results of that chart, we
-	determined Louise would have the most success if she kept her fundraising goal under $5,000.
+Another area we analyzed, to provide Louise useful data, was the outcome of each campaign, based on its goal of how much money they wanted
+to raise. We divided the campaigns into categories starting at < $1,000, increasing to $1,000 to $4,999, and continuing to increase each 
+category increment by $5,000, ending at $50,000 or more, for a total of twelve rows. Then we separated each column by 'percentage successful',
+'percentage failed', and 'percentage canceled'. Based on the results of that chart, we determined Louise would have the most success if 
+she kept her fundraising goal under $5,000.
 
 ### Challenges and Difficulties Encountered
 
