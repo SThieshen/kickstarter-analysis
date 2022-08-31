@@ -23,7 +23,7 @@ Fortunately for Louise, the theater/play category had some of the best crowdfund
 of each campaign, meaning if it succeeded or failed, we were still interested in seeing the percentage of funding received in each 
 campaign, if it went over its goal or came close to reaching it. This required dividing the amount pledged by the goal. This provided us
 insight on campaigns that exceeded goals, as well as ones that, while labeled 'failed', were close to their established goal. One 
-specific challenge encountered with the data set, was the formatting for the deadline and launched dates, which were Unix timestamps 
+specific challenge encountered with the dataset, was the formatting for the deadline and launched dates, which were Unix timestamps 
 rather than dates in a standard format. This required formatting prior to even being able to analyze the dates.
     
     
