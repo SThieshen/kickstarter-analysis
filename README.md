@@ -17,15 +17,14 @@ her make a more informed decision regarding the fundraising for her play.
 
 ## Analysis and Challenges
           
-          The data we analyzed for Louise, originated from a large data set that required effort to make sense from, just due
-    to the sheer volume of data provided. First, we determined, based on the category of the fundraising event if crowdfunding
-    a play would even be a good idea. Fortunately for Louise, the theater/play category had some of the best crowdfunding
-    results! Although the data set did provide outcomes of each campaign, meaning if it succeeded or failed, we were still interested
-    in seeing the percentage of funding received in each campaign, if it went over its goal or came close to reaching it. This required
-    dividing the amount pledged by the goal. This provided us insight on campaigns that exceeded goals, as well as ones that, while 
-    labeled 'failed', were close to their established goal. One specific challenge encountered with the data set, was the 
-    formatting for the deadline and launched dates, which were Unix timestamps rather than dates in a standard format. This required 
-	formatting prior to even being able to analyze the dates.
+The data we analyzed for Louise, originated from a large data set that required effort to make sense from, just due to the sheer volume
+of data provided. First, we determined, based on the category of the fundraising event if crowdfunding a play would even be a good idea. 
+Fortunately for Louise, the theater/play category had some of the best crowdfunding results! Although the data set did provide outcomes
+of each campaign, meaning if it succeeded or failed, we were still interested in seeing the percentage of funding received in each 
+campaign, if it went over its goal or came close to reaching it. This required dividing the amount pledged by the goal. This provided us
+insight on campaigns that exceeded goals, as well as ones that, while labeled 'failed', were close to their established goal. One 
+specific challenge encountered with the data set, was the formatting for the deadline and launched dates, which were Unix timestamps 
+rather than dates in a standard format. This required formatting prior to even being able to analyze the dates.
     
     
 ### Analysis of Outcomes Based on Launch Date
