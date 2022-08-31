@@ -2,7 +2,7 @@
 
 ## Overview of Project
 
-          With this project, analysis was performed on Kickstarter data to uncover trends to help determine characteristics of 
+With this project, analysis was performed on Kickstarter data to uncover trends to help determine characteristics of 
 successful crowdfunding campaigns. Overall analysis included determining trends that indicated increased success with a campaign, 
 including campaign type, goal of campaign, launch and end dates, number of backers, amounts pledged, and location of campaign launched. 
 This information allowed us to determine which factors increased likelihood of a successful crowdfunding campaign.
