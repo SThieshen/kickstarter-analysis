@@ -60,6 +60,6 @@
 	successful and failed campaigns, as well as the average for the pledged amounts. We also calculated the standard deviation in all 
 	categories to determine if there were any outliers that would skew the data. Successful play campaigns had an average goal of 
 	$5,049, with the average pledge being $5,602. Failed play campaigns had a much higher average goal at $10,554, with the average 
-	pledge being $559. This tells us, setting a lower crowdfunding goal of around $5,000, produces better outcomes. Based on the analysis
-	of our data, Louise would likely have the most success with her campaign, if launched in May or June, avoiding November and December, 
-	with the goal around $5,000.
+	pledge being $559. This tells us, setting a lower crowdfunding goal of around $5,000, produces better outcomes. Based on the 
+	analysis of our data, Louise would likely have the most success with her campaign, if launched in May or June, avoiding November 
+	and December, with the goal around $5,000.
