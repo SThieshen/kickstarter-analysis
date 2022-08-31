@@ -45,15 +45,15 @@ she kept her fundraising goal under $5,000.
 
 ### Challenges and Difficulties Encountered
 
-		With this dataset, we do encounter some limitations. While we have information on over 4,000 campaigns, only about a 
-	third of the data is relevant to theater and plays. Louise wanted the research even more focused to only the US, which placed even
-	more limitations on our data. Limiting the pool of data, increases the risks of variables that we are not able to predict, that 
-	would have a greater risk of impact on Louise's campaign. A pie chart with all campaigns represented may help Louise visualize the 
-	size of the sample we are pulling, since we are specifically focusing on theaters and plays for Louise's research.
+With this dataset, we do encounter some limitations. While we have information on over 4,000 campaigns, only about a third of the data is
+relevant to theater and plays. Louise wanted the research even more focused to only the US, which placed even more limitations on our data. 
+Limiting the pool of data, increases the risks of variables that we are not able to predict, that would have a greater risk of impact on 
+Louise's campaign. A pie chart with all campaigns represented may help Louise visualize the size of the sample we are pulling, since we 
+are specifically focusing on theaters and plays for Louise's research.
 	
 ## Results
 
-		Further analysis with the campaign goals and amounts pledged, provided more in-depth details of the average of goals for
+Further analysis with the campaign goals and amounts pledged, provided more in-depth details of the average of goals for
 	successful and failed campaigns, as well as the average for the pledged amounts. We also calculated the standard deviation in all 
 	categories to determine if there were any outliers that would skew the data. Successful play campaigns had an average goal of 
 	$5,049, with the average pledge being $5,602. Failed play campaigns had a much higher average goal at $10,554, with the average 
