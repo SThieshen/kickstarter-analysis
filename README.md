@@ -1,16 +1,22 @@
 # **Kickstarting with Excel**
-Performing analysis on Kickstarter data to uncover trends
 
 ## Overview of Project
 
-          The goal of the project was to help an up-and-coming playwright, Louise. She wanted to start a crowdfunding campaign
+          With this project, analysis was performed on Kickstarter data to uncover trends to help determine characteristics of 
+     successful crowdfunding campaigns. Overall analysis included determining trends that indicated increased success with a 
+     campaign, including campaign type, goal of campaign, launch and end dates, number of backers, amounts pledged, and location
+     of campaign launched. This information allowed us to determine which factors increased likelihood of a successful 
+     crowdfunding campaign.
+          
+## Purpose
+         
+          The purpose of this project was to help an up-and-coming playwright, Louise. She wanted to start a crowdfunding campaign
      to help fund her play, *Fever*. Louise originally planned a budget of over $10,000, but was hesitant to start the campaign
      without more information. She wanted input from an Excel power user, for help, in hopes of being successful at crowdfunding
-     her play. Within this analysis, we look at various aspects of crowdfunding, including types of events, fundraising goals,
-     campaign launch dates, and locations of the campaigns, just to name a few.
+     her play. Within this analysis, we were able to determine certain factors and trends that led to success with a campaign.
 
 
-## Purpose
+
 
 
 ## Analysis and Challenges
