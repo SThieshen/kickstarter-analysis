@@ -29,12 +29,11 @@ rather than dates in a standard format. This required formatting prior to even b
     
 ### Analysis of Outcomes Based on Launch Date
 
-		Once we were able to organize the launch dates, we took that information and created a line graph, so Louise could see for
-	herself when the best times to launch were. We compared outcomes, their amount (whether success, fail, or canceled), and the 
-	months in which the campaigns launched. The line graph provided visual aid in showing us that the months with the most 
-	successful outcomes were May and June, and the worst time to launch a crowdfunding campaign would be in the winter, with 
-	November, December, and January all having less than optimal results with their campaigns. Louise can clearly see that
-	she should launch her crowdfunding campaign at the beginning of summer!
+	Once we were able to organize the launch dates, we took that information and created a line graph, so Louise could see for herself when 
+the best times to launch were. We compared outcomes, their amount (whether success, fail, or canceled), and the months in which the 
+campaigns launched. The line graph provided visual aid in showing us that the months with the most successful outcomes were May and June, 
+and the worst time to launch a crowdfunding campaign would be in the winter, with November, December, and January all having less than
+optimal results with their campaigns. Louise can clearly see that she should launch her crowdfunding campaign at the beginning of summer!
 
 ### Analysis of Outcomes Based on Goals
 		
