@@ -9,11 +9,11 @@ This information allowed us to determine which factors increased likelihood of a
           
 ## Purpose
          
-          The purpose of this project was to help an up-and-coming playwright, Louise. She wanted to start a crowdfunding campaign
-     to help fund her play, *Fever*. Louise originally planned a budget of over $10,000, but was hesitant to start the campaign
-     without more information. She wanted input from an Excel power user, for help, in hopes of being successful at crowdfunding
-     her play. Within this analysis, we were able to determine certain factors and trends that led to success with a campaign and
-     provide useful information to Louise, to help her make a more informed decision regarding the fundraising for her play.
+The purpose of this project was to help an up-and-coming playwright, Louise. She wanted to start a crowdfunding campaign  to help fund
+her play, *Fever*. Louise originally planned a budget of over $10,000, but was hesitant to start the campaign without more information.
+She wanted input from an Excel power user, for help, in hopes of being successful at crowdfunding her play. Within this analysis, we 
+were able to determine certain factors and trends that led to success with a campaign and provide useful information to Louise, to help
+her make a more informed decision regarding the fundraising for her play.
 
 ## Analysis and Challenges
           
