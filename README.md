@@ -42,7 +42,7 @@ Another area we analyzed, to provide Louise useful data, was the outcome of each
 to raise. We divided the campaigns into categories starting at < $1,000, increasing to $1,000 to $4,999, and continuing to increase each 
 category increment by $5,000, ending at $50,000 or more, for a total of twelve rows. Then we separated each column by 'percentage successful',
 'percentage failed', and 'percentage canceled'. Based on the results of that chart, we determined Louise would have the most success if 
-she kept her fundraising goal under $5,000.
+she kept her fundraising goal under $5,000. https://github.com/SThieshen/kickstarter-analysis/blob/main/Outcomes_vs_Goals.png 
 
 ### Challenges and Difficulties Encountered
 
